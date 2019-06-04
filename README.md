@@ -1,7 +1,7 @@
 # Churn-Prediction
 Deep Learning using Artificial Neiral Network
 
-Dataset taken from the europpean bank, contain the information about customer and predicting whether the customer will leave
+Dataset taken from the european bank, contain the information about customer and predicting whether the customer will leave
 the bank of not based on the data provided in Dataset
 
 Step 1: Data reading
